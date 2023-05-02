@@ -19,3 +19,6 @@ output application/csv
         case ."S.No" -> index+1
     }
 )
+
+//taking incoming payload  and merging the skills and cources
+//updating the s.No field by using update function
